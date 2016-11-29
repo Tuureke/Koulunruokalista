@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Koulun ruokalista</string>
+    <string name="title_activity_single_menu_item">SingleMenuItem</string>
+</resources>
